@@ -114,7 +114,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 560
+        y: 896
         width: 144
         height: 112
       alignment: 9
@@ -135,7 +135,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 560
+        y: 896
         width: 144
         height: 112
       alignment: 9
@@ -156,7 +156,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 288
-        y: 560
+        y: 896
         width: 144
         height: 112
       alignment: 9
@@ -177,7 +177,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 432
-        y: 560
+        y: 896
         width: 144
         height: 112
       alignment: 9
@@ -198,7 +198,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 576
-        y: 560
+        y: 896
         width: 144
         height: 112
       alignment: 9
@@ -219,7 +219,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 720
-        y: 560
+        y: 896
         width: 144
         height: 112
       alignment: 9
@@ -240,7 +240,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 864
-        y: 560
+        y: 896
         width: 144
         height: 112
       alignment: 9
@@ -261,7 +261,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1008
-        y: 560
+        y: 896
         width: 144
         height: 112
       alignment: 9
@@ -282,7 +282,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 448
+        y: 784
         width: 144
         height: 112
       alignment: 9
@@ -303,7 +303,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 448
+        y: 784
         width: 144
         height: 112
       alignment: 9
@@ -324,7 +324,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 288
-        y: 448
+        y: 784
         width: 144
         height: 112
       alignment: 9
@@ -345,7 +345,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 432
-        y: 448
+        y: 784
         width: 144
         height: 112
       alignment: 9
@@ -366,7 +366,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 576
-        y: 448
+        y: 784
         width: 144
         height: 112
       alignment: 9
@@ -387,7 +387,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 720
-        y: 448
+        y: 784
         width: 144
         height: 112
       alignment: 9
@@ -408,7 +408,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 864
-        y: 448
+        y: 784
         width: 144
         height: 112
       alignment: 9
@@ -429,7 +429,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1008
-        y: 448
+        y: 784
         width: 144
         height: 112
       alignment: 9
@@ -450,7 +450,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 336
+        y: 672
         width: 144
         height: 112
       alignment: 9
@@ -471,7 +471,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 336
+        y: 672
         width: 144
         height: 112
       alignment: 9
@@ -492,7 +492,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 288
-        y: 336
+        y: 672
         width: 144
         height: 112
       alignment: 9
@@ -513,7 +513,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 432
-        y: 336
+        y: 672
         width: 144
         height: 112
       alignment: 9
@@ -534,7 +534,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 224
+        y: 560
         width: 144
         height: 112
       alignment: 9
@@ -555,7 +555,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 224
+        y: 560
         width: 144
         height: 112
       alignment: 9
@@ -576,7 +576,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 288
-        y: 224
+        y: 560
         width: 144
         height: 112
       alignment: 9
@@ -597,7 +597,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 112
+        y: 448
         width: 144
         height: 112
       alignment: 9
@@ -618,7 +618,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 112
+        y: 448
         width: 144
         height: 112
       alignment: 9
@@ -639,7 +639,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 288
-        y: 112
+        y: 448
         width: 144
         height: 112
       alignment: 9
@@ -660,7 +660,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 432
-        y: 112
+        y: 448
         width: 144
         height: 112
       alignment: 9
@@ -681,7 +681,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 336
         width: 144
         height: 112
       alignment: 9
@@ -702,7 +702,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 0
+        y: 336
         width: 144
         height: 112
       alignment: 9
@@ -723,7 +723,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 288
-        y: 0
+        y: 336
         width: 144
         height: 112
       alignment: 9
@@ -744,7 +744,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 432
-        y: 0
+        y: 336
         width: 144
         height: 112
       alignment: 9
@@ -756,6 +756,279 @@ TextureImporter:
       bones: []
       spriteID: a1453842098443049a28205346732de7
       internalID: -1771537613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eefd7876b116e4aa6e4d73f37b0430
+      internalID: -1187915116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6987dfe6f4193ea4aaffc2d115d8d745
+      internalID: -1042551654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3943fe674b7af4584657a397c41988
+      internalID: 1518165990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b727d364b7ceba44b4620fdcfba84aa
+      internalID: -1438219033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92d1a97ded00df4d8e6c21ec3ceed29
+      internalID: 1833091273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64969353484b0d40a9546b7839b219b
+      internalID: 2063082319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe7f2f5c85e6f84d9ddfa41d67ec7ae
+      internalID: 1001461553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 112
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38749ebc5999a4cb3594a289d031f8
+      internalID: -519196751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 112
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea0303fd6413c40b17ffecdccc2007
+      internalID: -21126355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 112
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f86b19cf3806449f9932401c7134d
+      internalID: -2013716185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_41
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 112
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c87832949bf07648a769230aab6687d
+      internalID: 1594906091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 112
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460247a8cbeadf41b1d91ccad779345
+      internalID: -915664534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lechuza sprite-reescalado_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af372fae4a6fc6e4db706b8bed82e496
+      internalID: -403166951
       vertices: []
       indices: 
       edges: []
@@ -796,7 +1069,20 @@ TextureImporter:
       Lechuza sprite-reescalado_29: -140741143
       Lechuza sprite-reescalado_3: 1727145357
       Lechuza sprite-reescalado_30: -1771537613
+      Lechuza sprite-reescalado_31: -1187915116
+      Lechuza sprite-reescalado_32: -1042551654
+      Lechuza sprite-reescalado_33: 1518165990
+      Lechuza sprite-reescalado_34: -1438219033
+      Lechuza sprite-reescalado_35: 1833091273
+      Lechuza sprite-reescalado_36: 2063082319
+      Lechuza sprite-reescalado_37: 1001461553
+      Lechuza sprite-reescalado_38: -519196751
+      Lechuza sprite-reescalado_39: -21126355
       Lechuza sprite-reescalado_4: -940085709
+      Lechuza sprite-reescalado_40: -2013716185
+      Lechuza sprite-reescalado_41: 1594906091
+      Lechuza sprite-reescalado_42: -915664534
+      Lechuza sprite-reescalado_43: -403166951
       Lechuza sprite-reescalado_5: 755943356
       Lechuza sprite-reescalado_6: 1039712955
       Lechuza sprite-reescalado_7: -1926629699
